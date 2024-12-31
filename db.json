@@ -1,0 +1,73 @@
+{
+  "uploadVideos": [
+    {
+      "id": "6e98",
+      "caption": "css",
+      "imgUrl": "https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_640.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/vBWhpgRFobE"
+    },
+    {
+      "id": "319d",
+      "caption": "Pushpa",
+      "imgUrl": "https://assets.gqindia.com/photos/674fffcefbb8205258a1c8ec/16:9/w_2560%2Cc_limit/Pushpa-3_001.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/1kVK0MZlbI4"
+    },
+    {
+      "id": "7b46",
+      "caption": "java",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM9PeWvphnXOtwq5lJ_uyuXs6mugQ0Dhqxxw&s",
+      "youtubeLink": "https://www.youtube.com/embed/RRubcjpTkks"
+    }
+  ],
+  "categories": [
+    {
+      "id": "42e1",
+      "categoryName": "tutorials",
+      "allVideos": [
+        {
+          "id": "319d",
+          "caption": "Pushpa",
+          "imgUrl": "https://assets.gqindia.com/photos/674fffcefbb8205258a1c8ec/16:9/w_2560%2Cc_limit/Pushpa-3_001.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/1kVK0MZlbI4"
+        }
+      ]
+    },
+    {
+      "id": "1c8d",
+      "categoryName": "films",
+      "allVideos": [
+        {
+          "id": "1c06",
+          "caption": "css",
+          "imgUrl": "https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_640.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/vBWhpgRFobE"
+        }
+      ]
+    },
+    {
+      "id": "00bb",
+      "categoryName": "trips",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "ddae",
+      "caption": "css",
+      "youtubeLink": "https://www.youtube.com/embed/vBWhpgRFobE",
+      "timeStamp": "12/20/2024, 11:19:38 AM GMT+5:30"
+    },
+    {
+      "id": "a01c",
+      "caption": "css",
+      "youtubeLink": "https://www.youtube.com/embed/vBWhpgRFobE",
+      "timeStamp": "12/20/2024, 11:42:51 AM GMT+5:30"
+    },
+    {
+      "id": "afc0",
+      "caption": "Pushpa",
+      "youtubeLink": "https://www.youtube.com/embed/1kVK0MZlbI4",
+      "timeStamp": "12/20/2024, 11:42:55 AM GMT+5:30"
+    }
+  ]
+}
